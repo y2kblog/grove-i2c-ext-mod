@@ -24,3 +24,19 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# user
+kicad/
+images/raw/
+*.xcf
+# kicad/3d/
+# kicad/gerber/
+# kicad/PCBA/
+# kicad/rescue-backup/
+# fp-info-*
+# fp-lib-*
+# * - コピー*
+# *.via_rules
+# *_Panelize*
+# gui_defaults.par
+# sym-lib-table
