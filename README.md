@@ -49,3 +49,8 @@ NXP社の高ドライブ電流型のI2CバスバッファPCA9600Dを用いてI2C
 - [3Dモデル閲覧（Sketchfab）](https://sketchfab.com/3d-models/grovei2c-9ce9cb5161b94b47932790ef6c42111e)  
 - DXFファイルダウンロード：<a href="https://github.com/y2kblog/grove-i2c-ext-mod/raw/master/resources/dimensional_drawing_dxf.zip" download="">dimensional_drawing_dxf.zip</a>  
 - STEPファイルダウンロード：<a href="https://github.com/y2kblog/grove-i2c-ext-mod/raw/master/resources/3d_model_step.zip" download="">3d_model_step.zip</a>  
+
+## FAQ
+
+- 通信に失敗する  
+伝送路の浮遊容量が大きい場合、I2C信号の立ち上がり時間が長くなり通信に失敗する可能性があります。Grove用I2C通信距離延長モジュールのR5、R6に比較的小さい値の抵抗（例：470Ω）を外付けしてください。
