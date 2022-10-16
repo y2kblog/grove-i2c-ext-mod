@@ -12,7 +12,7 @@ NXP社の高ドライブ電流型のI2CバスバッファPCA9600Dを用いてI2C
 
 
 ## 販売  
-[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/7251/)  
+[スイッチサイエンス委託販売ページ](https://www.switch-science.com/products/7251/)  
 ※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。  
 
 ## 内容物  
